@@ -1,0 +1,15 @@
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\calcu.csproj.AssemblyReference.cache
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\calcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\calcu.AssemblyInfoInputs.cache
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\calcu.AssemblyInfo.cs
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\calcu.csproj.CoreCompileInputs.cache
+C:\Users\satya\OneDrive\Desktop\testing\calcu\bin\Debug\net7.0\calcu.exe
+C:\Users\satya\OneDrive\Desktop\testing\calcu\bin\Debug\net7.0\calcu.deps.json
+C:\Users\satya\OneDrive\Desktop\testing\calcu\bin\Debug\net7.0\calcu.runtimeconfig.json
+C:\Users\satya\OneDrive\Desktop\testing\calcu\bin\Debug\net7.0\calcu.dll
+C:\Users\satya\OneDrive\Desktop\testing\calcu\bin\Debug\net7.0\calcu.pdb
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\calcu.dll
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\refint\calcu.dll
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\calcu.pdb
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\calcu.genruntimeconfig.cache
+C:\Users\satya\OneDrive\Desktop\testing\calcu\obj\Debug\net7.0\ref\calcu.dll
